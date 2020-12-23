@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f5614c34fb6a44dcc37dc963f11e4f75",
+    "revision": "2f1b11a3f5ab494c98576ad49802486a",
     "url": "/react-color-guessing-game/index.html"
   },
   {
-    "revision": "16d42fc43fea1907c269",
+    "revision": "3b1c605319029266a1fe",
     "url": "/react-color-guessing-game/static/css/main.77c4753d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-color-guessing-game/static/js/2.f82e9f68.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "16d42fc43fea1907c269",
-    "url": "/react-color-guessing-game/static/js/main.0817f81d.chunk.js"
+    "revision": "3b1c605319029266a1fe",
+    "url": "/react-color-guessing-game/static/js/main.2deaf515.chunk.js"
   },
   {
     "revision": "70c34ed220e7d702fa4f",
